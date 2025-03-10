@@ -15,6 +15,8 @@ def create_player_tag(player_name, player_number):
     # Your code here
     pass
 
+in
+
 def calculate_points_needed(current_score, target_score):
     """
     Calculate how many more points are needed to reach the target score.
@@ -65,3 +67,11 @@ def distribute_powerups(total_powerups, players_count):
     """
     # Your code here
     pass
+
+
+
+
+
+
+
+
